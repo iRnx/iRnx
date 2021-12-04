@@ -1,8 +1,8 @@
 ### Hi there 👋
 
  ## I'm Renan Alves
-- I live in :brazil:, São Paulo 😎
-- I am a student in love with python and database :computer:
+🎓 Eu moro no :brazil:, São Paulo 😎 </br>
+🎓 Eu sou estudante e apaixonado pela area de tecnologia, principalmente Desenvolvimento, Banco de Dados e Segurança da informação 😍 :computer: 
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/renan-alves-67a3511b2/" target="_blank">

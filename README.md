@@ -14,7 +14,7 @@
 
 ## My Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/1463/PNG/512/github-black_100141.png" alt="rails" width="40" height="40" style="max-width:100%;"></img>

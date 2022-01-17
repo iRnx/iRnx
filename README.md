@@ -2,7 +2,7 @@
 
  ## I'm Renan Alves
 🎓 Eu moro no :brazil:, São Paulo 😎 </br>
-🎓 Eu sou estudante e <a href="https://www.youtube.com/watch?v=e1tZUSriYM8" target="_blank">oiiiii</a>apaixonado pela area de tecnologia, principalmente Desenvolvimento, Banco de Dados e Segurança da informação 😍 :computer:
+🎓 Eu sou estudante e apaixonado pela area de tecnologia, principalmente Desenvolvimento, Banco de Dados e Segurança da informação 😍 :computer:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/renan-alves-67a3511b2/" target="_blank">

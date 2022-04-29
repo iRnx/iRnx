@@ -3,6 +3,7 @@
  ## I'm Renan Alves
 🎓 Eu moro no :brazil:, São Paulo 😎 </br>
 🎓 Eu sou estudante e apaixonado pela area de tecnologia, principalmente Desenvolvimento, Banco de Dados e Segurança da informação 😍 :computer:
+🎓 Meus <a href="https://github.com/iRnx/Certificados">Certificados</a>
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/renan-alves-67a3511b2/" target="_blank">

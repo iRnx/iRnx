@@ -1,9 +1,11 @@
 ### Hi there 👋
 
  ## I'm Renan Alves
-🎓 Eu moro no :brazil:, São Paulo 😎 </br>
-🎓 Eu sou estudante e apaixonado pela area de tecnologia, principalmente Desenvolvimento, Banco de Dados e Segurança da informação 😍 :computer: </br>
-🎓 Meus <a href="https://github.com/iRnx/Certificados">Certificados</a>
+🎓 Eu moro no :brazil:, São Paulo Capital 😎 </br>
+🎓 Eu sou estudante e apaixonado pela area de tecnologia, principalmente Desenvolvimento Web, Banco de Dados e Segurança da informação 😍 :computer: </br>
+🎓 Aqui está todos os meus <a href="https://github.com/iRnx/Certificados">Certificados</a> até o momento. </br>
+🎓 Estou estudando atualmente, Django, JavaScript e bootstrap
+
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/renan-alves-67a3511b2/" target="_blank">

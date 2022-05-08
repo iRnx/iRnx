@@ -4,7 +4,7 @@
 🎓 Eu moro no :brazil:, São Paulo Capital 😎 </br>
 🎓 Eu sou estudante e apaixonado pela area de tecnologia, principalmente Desenvolvimento Web, Banco de Dados e Segurança da informação 😍 :computer: </br>
 🎓 Aqui está todos os meus <a href="https://github.com/iRnx/Certificados">Certificados</a> até o momento </br>
-🎓 Estou estudando atualmente, Django, JavaScript e bootstrap
+🎓 Estou estudando atualmente, Django e Django REST framework
 
 
 ## Connect with me:

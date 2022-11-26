@@ -1,10 +1,13 @@
 ### Hi there 👋
 
  ## I'm Renan Alves
-🎓 Eu moro no :brazil:, São Paulo Capital 😎 </br>
-🎓 Eu sou estudante e apaixonado pela area de tecnologia, principalmente Desenvolvimento Web, Banco de Dados e Segurança da informação 😍 :computer: </br>
-🎓 Aqui está todos os meus <a href="https://github.com/iRnx/Certificados">Certificados</a> até o momento </br>
-🎓 Estou estudando atualmente na PortSwigger todos os lab de XSS e Linux/ShellScript, quando sobra um tempo aprendo sobre REDES(nunca sobra tempo).
+🎓 
+I live in :brazil:, São Paulo Capital 😎 </br>
+🎓 I am a student and passionate about technology, mainly Web Development, Databases and Information Security 😍 :computer: </br>
+🎓 
+Here are all mine <a href="https://github.com/iRnx/Certificados">Certificates</a> until the moment </br> 
+🎓 
+I'm currently studying Django Rest Framework and JavaScript, and working on website development
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/renan-alves-67a3511b2/" target="_blank">

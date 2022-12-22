@@ -7,7 +7,7 @@ I live in :brazil:, São Paulo Capital 😎 </br>
 🎓 
 Here are all mine <a href="https://github.com/iRnx/Certificados">Certificates</a> until the moment </br> 
 🎓 
-I'm currently studying Django Rest Framework and JavaScript, and working on website development
+I'm currently studying Django and JavaScript, and working on website development
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/renan-alves-67a3511b2/" target="_blank">

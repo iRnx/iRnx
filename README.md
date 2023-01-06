@@ -9,6 +9,8 @@ Here are all mine <a href="https://github.com/iRnx/Certificados">Certificates</a
 🎓 
 I'm currently studying Django and JavaScript, and working on website development
 
+My Blog: http://rnxblog.com.br
+
 ## Connect with me:
 <a href="https://www.linkedin.com/in/renan-alves-67a3511b2/" target="_blank">
 <img align="center" alt="renan-linkedin" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="max-width:100%;">

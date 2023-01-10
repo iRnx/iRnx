@@ -7,7 +7,7 @@ I live in :brazil:, São Paulo Capital 😎 </br>
 🎓 
 Here are all mine <a href="https://github.com/iRnx/Certificados">Certificates</a> until the moment </br> 
 🎓 
-I'm currently studying Django and JavaScript, and working on website development </br>
+I'm currently studying Redes and servidores(nginx), and working on website development </br>
 🧑🏽‍💻
 My Blog: https://rnxblog.com.br
 

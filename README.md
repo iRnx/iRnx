@@ -11,7 +11,7 @@ I'm currently studying Django Rest Framework and unitary tests, and working on w
 🧑🏽‍💻
 My Blog: https://rnxblog.com.br </br>
 👨‍🏫
-My english website: http://rnxenglish.com
+My english website: https://rnxenglish.com
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/renan-alves-67a3511b2/" target="_blank">

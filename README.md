@@ -9,7 +9,7 @@ Here are all mine <a href="https://github.com/iRnx/Certificados">Certificates</a
 🎓 
 I'm currently studying Django Rest Framework and unitary tests, and working on website development </br>
 🧑🏽‍💻
-My Blog: https://rnxblog.com.br
+My Blog: https://rnxblog.com.br </br>
 👨‍🏫
 My english website: http://rnxenglish.com
 

@@ -14,7 +14,7 @@ My Blog: https://rnxblog.com.br </br>
 My english website: https://rnxenglish.com
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/renan-alves-67a3511b2/" target="_blank">
+<a href="https://www.linkedin.com/in/renan-alves-190469264/" target="_blank">
 <img align="center" alt="renan-linkedin" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/renan_guustavo/" target="_blank">
